@@ -1,0 +1,23 @@
+function: hello_world
+positional parameters: none
+kw parameters: none
+return value: None
+function: takes_positional
+positional arguments: (1, 2, 3, 4)
+kw parameters: none
+return value: True
+function: takes_keywords
+positional parameters: none
+kw positional arguments: {'a': 10, 'b': 20}
+function: hello_world
+positional parameters: none
+kw parameters: none
+return value: None
+function: takes_positional
+positional arguments: (1, 2, 3, 4)
+kw parameters: none
+return value: True
+function: takes_keywords
+positional parameters: none
+kw positional arguments: {'a': 10, 'b': 20}
+return value: <function logger_decorator at 0x10f5c1bc0>
