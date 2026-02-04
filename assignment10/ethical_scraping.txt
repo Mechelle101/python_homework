@@ -1,0 +1,18 @@
+
+Task 5: Ethical Scraping 
+
+1) Which sections of the website are restricted for crawling?
+- For User-agent: * (general rule) The restrictions of these sections
+- /w/
+- /api/
+- /trap/
+    
+2) Are there specific rules for certain user agents?
+- Yes. Many named bots are disallowed entirely (disallowed: /)
+- Some bots have special rules, crawl-delay
+
+3) Why sites use robots.txt
+It lets site owners communicate what part of the site auto crawlers should and should not access.
+It helps prevent excessive load on servers and reduce crawling of dynamic and sensitive areas.
+Following these guidelines respects the site owner's published rules. 
+
